@@ -3,6 +3,28 @@ align="center"> <img src="https://github.com/ByexeOfficial999/Theme-X/blob/main/
 
 _***Termux Theme-X*** adalah tools untuk mengubah tampilan Termux menjadi lebih keren, modern, dan nyaman digunakan dengan berbagai pilihan tema._
 
+##### Klik Untuk Melihatnya
+<details>
+  <summary>🕹️ Tampilan Tools Theme-X</summary>
+
+  <br>
+
+  <img src="https://github.com/ByexeOfficial999/Theme-X/blob/main/IMG/1769914465601.jpg" alt="Contoh Gambar" width="500">
+
+</details>
+
+<details>
+  <summary>🕹️ Contoh Theme BlackArch</summary>
+
+  <br>
+
+  <img 
+src="https://github.com/ByexeOfficial999/Theme-X/blob/main/IMG/1769914524025.jpg" alt="Contoh Gambar" width="500">
+
+</details>
+
+---
+
 _Bagaimana cara menginstal script ini di Termux Android Anda??. Lihat di bawah ini._
 
 ### INSTALL FOR TERMUX
