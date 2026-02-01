@@ -39,6 +39,12 @@ make install
 make run
 ```
 
+### RUNNING TOOLS KEMBALI
+```python
+cd && cd Theme-X
+make run
+```
+
 ### ATASI ERROR
 ```python
 cd && cd Theme-X
