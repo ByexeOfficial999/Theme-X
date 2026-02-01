@@ -7,7 +7,10 @@ P = \033[1;37m
 R = \033[0m
 
 install:
+	clear
 	pkg install neofetch starship -y
+	@echo -e "$(P) Instalasi Selesai $(M)!"
+	@echo -e "$(P) Ketik $(H)make run$(P) Untuk Menjalankan Tools$(R)"
 
 run:
 	git pull
