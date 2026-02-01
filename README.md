@@ -72,4 +72,4 @@ ___
 [![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://youtube.com/@ByexeOfficial)<br>
 
 
-```Byexe 26 - 1 - 2026```
+```Byexe 1 - 2 - 2026```
