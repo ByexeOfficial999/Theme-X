@@ -46,6 +46,12 @@ make fix
 make run
 ```
 
+> [!CAUTION] 
+> _***Termux Theme-X*** dirancang khusus untuk ***Shell Bash*** dan hanya bekerja pada file konfigurasi ***.bashrc***.
+Tools ini tidak mendukung ***zsh (.zshrc)*** maupun shell lainnya. Tools ini juga tidak mendukung ***Termux*** versi ***Play Store***.
+Silakan gunakan Termux versi resmi dari ***F-Droid***._
+___
+
 ### TUTORIAL ON YOUTUBE
 [![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://youtube.com/@ByexeOfficial)
 
