@@ -8,7 +8,7 @@ R = \033[0m
 
 install:
 	clear
-	pkg install neofetch starship -y
+	pkg install neofetch starship -y && pip install requests
 	@echo -e "$(P) Instalasi Selesai $(M)!"
 	@echo -e "$(P) Ketik $(H)make run$(P) Untuk Menjalankan Tools$(R)"
 
