@@ -14,7 +14,7 @@ install:
 
 run:
 	git pull
-	python theme.py
+	python theme.pyc
 
 fix:
 	cd && rm -rf Theme-X
